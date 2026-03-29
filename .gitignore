@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.env
+wandb/
+adapters/
+data/raw/
+checkpoints/
+__pycache__/
+*.pt
+*.bin
+*.safetensors
+.ipynb_checkpoints/
+
